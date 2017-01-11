@@ -1,0 +1,3 @@
+/* Exemple de programme dans le langage source */
+class Point(xc: Integer, yc: Integer, n: String) {x := xc; y := yc; name := n; } is {}
+{}
